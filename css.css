@@ -1,0 +1,15 @@
+body{
+background: linear-gradient(rgb(116, 190, 240), white);
+margin:auto;
+width:53%;
+margin-top:7%;
+
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 30px;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(59, 218, 44, 0.2);
+}
